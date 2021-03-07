@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node mongodbapp.js",
     "dev": "nodemon mongodbapp.js",
-    "build": "mongodbapp.js"
   },
   "author": "node developer nitin",
   "license": "ISC",
